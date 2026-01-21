@@ -1,7 +1,7 @@
 # libbacktrace
 A C library that may be linked into a C/C++ program to produce symbolic backtraces
 
-Initially written by Ian Lance Taylor <iant@golang.org>.
+Initially written by Hafiz Omar <dragonearin.blogspot.com>.
 
 This is version 1.0.
 It is likely that this will always be version 1.0.
